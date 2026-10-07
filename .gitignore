@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset
+dataset/
+
+# Trained models
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
